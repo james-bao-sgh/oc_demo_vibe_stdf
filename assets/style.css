@@ -1,0 +1,35 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    border: 1px solid #e9ecef;
+}
+
+.card-header {
+    font-weight: 600;
+    font-size: 14px;
+    background-color: #f8f9fa;
+}
+
+.dbc .form-control, .dbc .form-select {
+    font-size: 13px;
+}
+
+.dbc .btn {
+    font-size: 13px;
+}
+
+.table-sm td, .table-sm th {
+    padding: 4px 6px;
+    font-size: 12px;
+}
+
+#wafer-map .js-plotly-plot, #scatter-plot .js-plotly-plot, #pareto-chart .js-plotly-plot {
+    border-radius: 4px;
+}
+
+#load-status {
+    min-height: 20px;
+}

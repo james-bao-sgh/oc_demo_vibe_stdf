@@ -1,0 +1,22 @@
+wafer:
+  diameter_mm: 300
+  default_notch: bottom
+
+bin_colors:
+  1: "#00CC96"
+  2: "#EF553B"
+  3: "#FFA15A"
+  4: "#AB63FA"
+  5: "#FFD02E"
+  6: "#00D4FF"
+  7: "#FF6692"
+  8: "#B6E880"
+  9: "#FF97FF"
+  10: "#FECB52"
+  other: "#7F7F7F"
+
+cpk_threshold: 1.33
+
+report:
+  title: "STDF 晶圆测试报告"
+  company_logo: "assets/logo_placeholder.png"
